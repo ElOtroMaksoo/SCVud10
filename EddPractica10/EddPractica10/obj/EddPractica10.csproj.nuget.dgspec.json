@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alumno\\source\\repos\\EddPractica10\\EddPractica10\\EddPractica10.csproj": {}
+    "C:\\Users\\alumno\\source\\repos\\ElOtroMaksoo\\SCVud10\\EddPractica10\\EddPractica10\\EddPractica10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alumno\\source\\repos\\EddPractica10\\EddPractica10\\EddPractica10.csproj": {
+    "C:\\Users\\alumno\\source\\repos\\ElOtroMaksoo\\SCVud10\\EddPractica10\\EddPractica10\\EddPractica10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alumno\\source\\repos\\EddPractica10\\EddPractica10\\EddPractica10.csproj",
+        "projectUniqueName": "C:\\Users\\alumno\\source\\repos\\ElOtroMaksoo\\SCVud10\\EddPractica10\\EddPractica10\\EddPractica10.csproj",
         "projectName": "EddPractica10",
-        "projectPath": "C:\\Users\\alumno\\source\\repos\\EddPractica10\\EddPractica10\\EddPractica10.csproj",
+        "projectPath": "C:\\Users\\alumno\\source\\repos\\ElOtroMaksoo\\SCVud10\\EddPractica10\\EddPractica10\\EddPractica10.csproj",
         "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alumno\\source\\repos\\EddPractica10\\EddPractica10\\obj\\",
+        "outputPath": "C:\\Users\\alumno\\source\\repos\\ElOtroMaksoo\\SCVud10\\EddPractica10\\EddPractica10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
